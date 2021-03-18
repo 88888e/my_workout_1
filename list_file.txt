@@ -1,0 +1,5 @@
+/home/server/Документы/MY_UBUNTU_GIT/my_workout_1/file_3_commit.txt
+/home/server/Документы/MY_UBUNTU_GIT/my_workout_1/file1.txt
+/home/server/Документы/MY_UBUNTU_GIT/my_workout_1/file_2_commit.txt
+/home/server/Документы/MY_UBUNTU_GIT/my_workout_1/file_1_commit.txt
+/home/server/Документы/MY_UBUNTU_GIT/my_workout_1/list_file.txt
